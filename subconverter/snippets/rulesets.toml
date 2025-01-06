@@ -3,6 +3,25 @@ group = "🔰 节点选择"
 ruleset = "rules/DivineEngine/Surge/Ruleset/Global.list"
 
 [[rulesets]]
+group = "🎯 全球直连"
+ruleset = "rules/LocalAreaNetwork.list"
+
+[[rulesets]]
+group = "🎯 全球直连"
+ruleset = "rules/DivineEngine/Surge/Ruleset/Unbreak.list"
+
+[[rulesets]]
+group = "🎯 全球直连"
+ruleset = "rules/DivineEngine/Surge/Ruleset/China.list"
+
+[[rulesets]]
+group = "🎯 全球直连"
+ruleset = "rules/NobyDa/Surge/Download.list"
+
+[[rulesets]]
+group = "🎯 全球直连"
+ruleset = "[]GEOIP,CN"
+
+[[rulesets]]
 group = "🐟 漏网之鱼"
 ruleset = "[]FINAL"
-
