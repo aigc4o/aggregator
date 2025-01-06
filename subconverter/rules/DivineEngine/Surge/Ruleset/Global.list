@@ -492,8 +492,6 @@ DOMAIN,cc.tvbs.com.tw
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,us.weibo.com
 
-DOMAIN-SUFFIX,edu
-DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,mil
 
 # (IP Blackhole)
