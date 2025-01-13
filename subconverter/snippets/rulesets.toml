@@ -1,7 +1,3 @@
 [[rulesets]]
 group = "🔰 节点选择"
 ruleset = "rules/DivineEngine/Surge/Ruleset/Global.list"
-
-[[rulesets]]
-group = "🐟 漏网之鱼"
-ruleset = "[]FINAL"
